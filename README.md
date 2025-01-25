@@ -1,3 +1,4 @@
 # merito-2025
-Hello first project
+
 Plik zedytowany na remote
+plik zmodyfikowany na brachu branch-magdalena
